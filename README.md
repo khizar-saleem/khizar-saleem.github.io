@@ -4,7 +4,7 @@
 
 ## Current Projects 
 
-* [YourTube](yourtube/) 
+* [DIY Garage](diy-garage/) 
 
 ## Education
 
